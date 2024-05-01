@@ -1,0 +1,7 @@
+.dropdown-toggle.show {
+    border-color: var(--bs-primary-border-subtle) !important;
+}
+
+.dropdown-toggle::after {
+    content: none;
+}

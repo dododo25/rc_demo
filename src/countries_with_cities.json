@@ -1,0 +1,2569 @@
+[
+  {
+    "iso3": "AFG",
+    "name": "Afghanistan",
+    "timeZoneIncrement": 16200000
+  },
+  {
+    "iso3": "ALB",
+    "name": "Albania",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "DZA",
+    "name": "Algeria",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "AND",
+    "name": "Andorra",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "AGO",
+    "name": "Angola",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "ATG",
+    "name": "Antigua and Barbuda",
+    "timeZoneIncrement": -14400000
+  },
+  {
+    "iso3": "ARG",
+    "name": "Argentina",
+    "timeZoneIncrement": -10800000
+  },
+  {
+    "iso3": "ARM",
+    "name": "Armenia",
+    "timeZoneIncrement": 14400000
+  },
+  {
+    "iso3": "AUS",
+    "name": "Australia",
+    "cities": [
+      {
+        "name": "Canberra",
+        "admin": "primary",
+        "timeZoneIncrement": 36000000
+      },
+      {
+        "name": "Adelaide",
+        "admin": "secondary",
+        "timeZoneIncrement": 34200000
+      },
+      {
+        "name": "Brisbane",
+        "admin": "secondary",
+        "timeZoneIncrement": 36000000
+      },
+      {
+        "name": "Darwin",
+        "admin": "secondary",
+        "timeZoneIncrement": 34200000
+      },
+      {
+        "name": "Hobart",
+        "admin": "secondary",
+        "timeZoneIncrement": 36000000
+      },
+      {
+        "name": "Melbourne",
+        "admin": "secondary",
+        "timeZoneIncrement": 36000000
+      },
+      {
+        "name": "Perth",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Sydney",
+        "admin": "secondary",
+        "timeZoneIncrement": 36000000
+      }
+    ]
+  },
+  {
+    "iso3": "AUT",
+    "name": "Austria",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "AZE",
+    "name": "Azerbaijan",
+    "timeZoneIncrement": 14400000
+  },
+  {
+    "iso3": "BHR",
+    "name": "Bahrain",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "BGD",
+    "name": "Bangladesh",
+    "timeZoneIncrement": 21600000
+  },
+  {
+    "iso3": "BRB",
+    "name": "Barbados",
+    "timeZoneIncrement": -14400000
+  },
+  {
+    "iso3": "BLR",
+    "name": "Belarus",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "BEL",
+    "name": "Belgium",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "BLZ",
+    "name": "Belize",
+    "timeZoneIncrement": -21600000
+  },
+  {
+    "iso3": "BEN",
+    "name": "Benin",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "BMU",
+    "name": "Bermuda",
+    "timeZoneIncrement": -10800000
+  },
+  {
+    "iso3": "BTN",
+    "name": "Bhutan",
+    "timeZoneIncrement": 21600000
+  },
+  {
+    "iso3": "BOL",
+    "name": "Bolivia",
+    "timeZoneIncrement": -14400000
+  },
+  {
+    "iso3": "BES",
+    "name": "Bonaire, Sint Eustatius, and Saba",
+    "timeZoneIncrement": 18000000
+  },
+  {
+    "iso3": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "BWA",
+    "name": "Botswana",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "BRA",
+    "name": "Brazil",
+    "cities": [
+      {
+        "name": "Brasilia",
+        "admin": "primary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Belem",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Belo Horizonte",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Boa Vista",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Campo Grande",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Cuiaba",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Curitiba",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Florianopolis",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Fortaleza",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Goiania",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Joao Pessoa",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Macapa",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Maceio",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Manaus",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Natal",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Palmas",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Porto Alegre",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Porto Velho",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Recife",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Rio Branco",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Rio de Janeiro",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Salvador",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Sao Luis",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Sao Paulo",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Teresina",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Vitoria",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      }
+    ]
+  },
+  {
+    "iso3": "BRN",
+    "name": "Brunei",
+    "timeZoneIncrement": 28800000
+  },
+  {
+    "iso3": "BGR",
+    "name": "Bulgaria",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "BFA",
+    "name": "Burkina Faso",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "BDI",
+    "name": "Burundi",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "CPV",
+    "name": "Cabo Verde",
+    "timeZoneIncrement": -3600000
+  },
+  {
+    "iso3": "KHM",
+    "name": "Cambodia",
+    "timeZoneIncrement": 25200000
+  },
+  {
+    "iso3": "CMR",
+    "name": "Cameroon",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "CAN",
+    "name": "Canada",
+    "cities": [
+      {
+        "name": "Ottawa",
+        "admin": "primary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Charlottetown",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Edmonton",
+        "admin": "secondary",
+        "timeZoneIncrement": -28800000
+      },
+      {
+        "name": "Fredericton",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Halifax",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Iqaluit",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Quebec City",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Regina",
+        "admin": "secondary",
+        "timeZoneIncrement": -28800000
+      },
+      {
+        "name": "St. John's",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Toronto",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Victoria",
+        "admin": "secondary",
+        "timeZoneIncrement": -25200000
+      },
+      {
+        "name": "Whitehorse",
+        "admin": "secondary",
+        "timeZoneIncrement": -25200000
+      },
+      {
+        "name": "Winnipeg",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Yellowknife",
+        "admin": "secondary",
+        "timeZoneIncrement": -28800000
+      }
+    ]
+  },
+  {
+    "iso3": "CAF",
+    "name": "Central African Republic",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "TCD",
+    "name": "Chad",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "CHL",
+    "name": "Chile",
+    "cities": [
+      {
+        "name": "Santiago",
+        "admin": "primary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Antofagasta",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Arica",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Chillan",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Concepcion",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Copiapo",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Coyhaique",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Iquique",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "La Serena",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Puerto Montt",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Punta Arenas",
+        "admin": "secondary",
+        "timeZoneIncrement": -10800000
+      },
+      {
+        "name": "Rancagua",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Talca",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Temuco",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Valdivia",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Valparaiso",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      }
+    ]
+  },
+  {
+    "iso3": "CHN",
+    "name": "China",
+    "timeZoneIncrement": 28800000
+  },
+  {
+    "iso3": "COL",
+    "name": "Colombia",
+    "timeZoneIncrement": -18000000
+  },
+  {
+    "iso3": "COM",
+    "name": "Comoros",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "COG",
+    "name": "Congo (Brazzaville)",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "COD",
+    "name": "Congo (Kinshasa)",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "CRI",
+    "name": "Costa Rica",
+    "timeZoneIncrement": -21600000
+  },
+  {
+    "iso3": "CIV",
+    "name": "Cote d`Ivoire",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "HRV",
+    "name": "Croatia",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "CUB",
+    "name": "Cuba",
+    "timeZoneIncrement": -18000000
+  },
+  {
+    "iso3": "CYP",
+    "name": "Cyprus",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "CZE",
+    "name": "Czechia",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "DNK",
+    "name": "Denmark",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "DJI",
+    "name": "Djibouti",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "DMA",
+    "name": "Dominica",
+    "timeZoneIncrement": -14400000
+  },
+  {
+    "iso3": "DOM",
+    "name": "Dominican Republic",
+    "timeZoneIncrement": -14400000
+  },
+  {
+    "iso3": "ECU",
+    "name": "Ecuador",
+    "cities": [
+      {
+        "name": "Quito",
+        "admin": "primary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Ambato",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Azogues",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Babahoyo",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Cuenca",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Esmeraldas",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Galapagos Islands",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Guaranda",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Guayaquil",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Ibarra",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Latacunga",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Loja",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Macas",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Machala",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Nueva Loja",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Portoviejo",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Puerto Baquerizo Moreno",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Puerto Francisco de Orellana",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Puyo",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Riobamba",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Santa Elena",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Santo Domingo de los Colorados",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Tena",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Tulcan",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Zamora",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      }
+    ]
+  },
+  {
+    "iso3": "EGY",
+    "name": "Egypt",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "SLV",
+    "name": "El Salvador",
+    "timeZoneIncrement": -21600000
+  },
+  {
+    "iso3": "GNQ",
+    "name": "Equatorial Guinea",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "ERI",
+    "name": "Eritrea",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "EST",
+    "name": "Estonia",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "ETH",
+    "name": "Ethiopia",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "FRO",
+    "name": "Faroe Islands",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "FSM",
+    "name": "Federated States of Micronesia",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "FJI",
+    "name": "Fiji",
+    "timeZoneIncrement": 43200000
+  },
+  {
+    "iso3": "FIN",
+    "name": "Finland",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "FRA",
+    "name": "France"
+  },
+  {
+    "iso3": "PYF",
+    "name": "French Polynesia",
+    "timeZoneIncrement": -36000000
+  },
+  {
+    "iso3": "GAB",
+    "name": "Gabon",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "GMB",
+    "name": "Gambia",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "GEO",
+    "name": "Georgia",
+    "timeZoneIncrement": 14400000
+  },
+  {
+    "iso3": "DEU",
+    "name": "Germany",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "GHA",
+    "name": "Ghana",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "GRC",
+    "name": "Greece",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "GRL",
+    "name": "Greenland",
+    "timeZoneIncrement": -3600000
+  },
+  {
+    "iso3": "GRD",
+    "name": "Grenada",
+    "timeZoneIncrement": -14400000
+  },
+  {
+    "iso3": "GTM",
+    "name": "Guatemala",
+    "timeZoneIncrement": -21600000
+  },
+  {
+    "iso3": "GIN",
+    "name": "Guinea",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "GNB",
+    "name": "Guinea-Bissau",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "GUY",
+    "name": "Guyana",
+    "timeZoneIncrement": -14400000
+  },
+  {
+    "iso3": "HTI",
+    "name": "Haiti",
+    "timeZoneIncrement": -18000000
+  },
+  {
+    "iso3": "HND",
+    "name": "Honduras",
+    "timeZoneIncrement": -21600000
+  },
+  {
+    "iso3": "HUN",
+    "name": "Hungary",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "ISL",
+    "name": "Iceland",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "IND",
+    "name": "India",
+    "timeZoneIncrement": 19800000
+  },
+  {
+    "iso3": "IDN",
+    "name": "Indonesia",
+    "cities": [
+      {
+        "name": "Jakarta",
+        "admin": "primary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Ambon",
+        "admin": "secondary",
+        "timeZoneIncrement": 32400000
+      },
+      {
+        "name": "Banda Aceh",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Bandar Lampung",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Bandung",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Banjarmasin",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Bengkulu",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Denpasar",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Gorontalo",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Jambi",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Jayapura",
+        "admin": "secondary",
+        "timeZoneIncrement": 32400000
+      },
+      {
+        "name": "Kendari",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Kupang",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Makassar",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Mamuju",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Manado",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Manokwari",
+        "admin": "secondary",
+        "timeZoneIncrement": 32400000
+      },
+      {
+        "name": "Mataram",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Medan",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Padang",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Palangkaraya",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Palembang",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Palu",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Pangkalpinang",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Pekanbaru",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Pontianak",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Samarinda",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Semarang",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Serang",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Sofifi",
+        "admin": "secondary",
+        "timeZoneIncrement": 32400000
+      },
+      {
+        "name": "Surabaya",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Yogyakarta",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      }
+    ]
+  },
+  {
+    "iso3": "IRN",
+    "name": "Iran",
+    "timeZoneIncrement": 12600000
+  },
+  {
+    "iso3": "IRQ",
+    "name": "Iraq",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "IRL",
+    "name": "Ireland",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "ISR",
+    "name": "Israel",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "ITA",
+    "name": "Italy",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "JAM",
+    "name": "Jamaica",
+    "timeZoneIncrement": -18000000
+  },
+  {
+    "iso3": "JPN",
+    "name": "Japan",
+    "timeZoneIncrement": 32400000
+  },
+  {
+    "iso3": "JOR",
+    "name": "Jordan",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "KAZ",
+    "name": "Kazakhstan",
+    "timeZoneIncrement": 18000000
+  },
+  {
+    "iso3": "KEN",
+    "name": "Kenya",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "KWT",
+    "name": "Kuwait",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "KGZ",
+    "name": "Kyrgyzstan",
+    "timeZoneIncrement": 21600000
+  },
+  {
+    "iso3": "LAO",
+    "name": "Laos",
+    "timeZoneIncrement": 25200000
+  },
+  {
+    "iso3": "LVA",
+    "name": "Latvia",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "LBN",
+    "name": "Lebanon",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "LSO",
+    "name": "Lesotho",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "LBR",
+    "name": "Liberia",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "LBY",
+    "name": "Libya",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "LIE",
+    "name": "Liechtenstein",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "LTU",
+    "name": "Lithuania",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "LUX",
+    "name": "Luxembourg",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "MDG",
+    "name": "Madagascar",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "MWI",
+    "name": "Malawi",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "MYS",
+    "name": "Malaysia",
+    "timeZoneIncrement": 28800000
+  },
+  {
+    "iso3": "MDV",
+    "name": "Maldives",
+    "timeZoneIncrement": 18000000
+  },
+  {
+    "iso3": "MLI",
+    "name": "Mali",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "MLT",
+    "name": "Malta",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "MHL",
+    "name": "Marshall Islands",
+    "timeZoneIncrement": 43200000
+  },
+  {
+    "iso3": "MRT",
+    "name": "Mauritania",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "MUS",
+    "name": "Mauritius",
+    "timeZoneIncrement": 14400000
+  },
+  {
+    "iso3": "MEX",
+    "name": "Mexico",
+    "cities": [
+      {
+        "name": "Mexico City",
+        "admin": "primary",
+        "timeZoneIncrement": -21600000
+      },
+      {
+        "name": "Aguascalientes",
+        "admin": "secondary",
+        "timeZoneIncrement": -21600000
+      },
+      {
+        "name": "Campeche",
+        "admin": "secondary",
+        "timeZoneIncrement": -21600000
+      },
+      {
+        "name": "Chihuahua",
+        "admin": "secondary",
+        "timeZoneIncrement": -21600000
+      },
+      {
+        "name": "Colima",
+        "admin": "secondary",
+        "timeZoneIncrement": -21600000
+      },
+      {
+        "name": "Durango",
+        "admin": "secondary",
+        "timeZoneIncrement": -21600000
+      },
+      {
+        "name": "Guanajuato",
+        "admin": "secondary",
+        "timeZoneIncrement": -21600000
+      },
+      {
+        "name": "Morelia",
+        "admin": "secondary",
+        "timeZoneIncrement": -21600000
+      },
+      {
+        "name": "Oaxaca",
+        "admin": "secondary",
+        "timeZoneIncrement": -21600000
+      },
+      {
+        "name": "Puebla",
+        "admin": "secondary",
+        "timeZoneIncrement": -21600000
+      },
+      {
+        "name": "Queretaro",
+        "admin": "secondary",
+        "timeZoneIncrement": -21600000
+      },
+      {
+        "name": "San Luis Potosi",
+        "admin": "secondary",
+        "timeZoneIncrement": -21600000
+      },
+      {
+        "name": "Zacatecas",
+        "admin": "secondary",
+        "timeZoneIncrement": -21600000
+      }
+    ]
+  },
+  {
+    "iso3": "MDA",
+    "name": "Moldova",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "MNG",
+    "name": "Mongolia",
+    "cities": [
+      {
+        "name": "Ulaanbaatar",
+        "admin": "primary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Altay",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Arvayheer",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Baruun-Urt",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Bayanhongor",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Bulgan",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Choybalsan",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Choyr",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Darhan",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Dzuunmod",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Erdenet",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Hovd",
+        "admin": "secondary",
+        "timeZoneIncrement": 25200000
+      },
+      {
+        "name": "Mandalgovi",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Moron",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Olgiy",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Ondorhaan",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Saynshand",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Suhbaatar",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Tsetserleg",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Ulaangom",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Uliastay",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      }
+    ]
+  },
+  {
+    "iso3": "MNE",
+    "name": "Montenegro",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "MSR",
+    "name": "Montserrat",
+    "timeZoneIncrement": -14400000
+  },
+  {
+    "iso3": "MAR",
+    "name": "Morocco",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "MOZ",
+    "name": "Mozambique",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "MMR",
+    "name": "Myanmar",
+    "timeZoneIncrement": 23400000
+  },
+  {
+    "iso3": "NAM",
+    "name": "Namibia",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "NRU",
+    "name": "Nauru",
+    "timeZoneIncrement": 43200000
+  },
+  {
+    "iso3": "NPL",
+    "name": "Nepal",
+    "timeZoneIncrement": 20700000
+  },
+  {
+    "iso3": "NLD",
+    "name": "Netherlands",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "NCL",
+    "name": "New Caledonia",
+    "timeZoneIncrement": 39600000
+  },
+  {
+    "iso3": "NZL",
+    "name": "New Zealand",
+    "cities": [
+      {
+        "name": "Wellington",
+        "admin": "primary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Auckland",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Blenheim",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Christchurch",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Chatham Islands",
+        "admin": "secondary",
+        "timeZoneIncrement": 45900000
+      },
+      {
+        "name": "Dunedin",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Gisborne",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Greymouth",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Hamilton",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Invercargill",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Napier",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Nelson",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Palmerston North",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Richmond",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Stratford",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Waitangi",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Whakatane",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Whangarei",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      }
+    ]
+  },
+  {
+    "iso3": "NIC",
+    "name": "Nicaragua",
+    "timeZoneIncrement": -21600000
+  },
+  {
+    "iso3": "NER",
+    "name": "Niger",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "NGA",
+    "name": "Nigeria",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "PRK",
+    "name": "North Korea",
+    "timeZoneIncrement": 32400000
+  },
+  {
+    "iso3": "MKD",
+    "name": "North Macedonia",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "NOR",
+    "name": "Norway",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "OMN",
+    "name": "Oman",
+    "timeZoneIncrement": 14400000
+  },
+  {
+    "iso3": "PAK",
+    "name": "Pakistan",
+    "timeZoneIncrement": 18000000
+  },
+  {
+    "iso3": "PLW",
+    "name": "Palau",
+    "timeZoneIncrement": 32400000
+  },
+  {
+    "iso3": "PAN",
+    "name": "Panama",
+    "timeZoneIncrement": -18000000
+  },
+  {
+    "iso3": "PNG",
+    "name": "Papua New Guinea",
+    "timeZoneIncrement": 36000000
+  },
+  {
+    "iso3": "PRY",
+    "name": "Paraguay",
+    "timeZoneIncrement": -14400000
+  },
+  {
+    "iso3": "PER",
+    "name": "Peru",
+    "timeZoneIncrement": -18000000
+  },
+  {
+    "iso3": "PHL",
+    "name": "Philippines",
+    "timeZoneIncrement": 28800000
+  },
+  {
+    "iso3": "POL",
+    "name": "Poland",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "PRT",
+    "name": "Portugal",
+    "cities": [
+      {
+        "name": "Lisbon",
+        "admin": "primary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Aveiro",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Beja",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Braga",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Braganca",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Castelo Branco",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Coimbra",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Evora",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Faro",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Funchal",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Guarda",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Leiria",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Ponta Delgada",
+        "admin": "secondary",
+        "timeZoneIncrement": -3600000
+      },
+      {
+        "name": "Portalegre",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Porto",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Santarem",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Setubal",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Viana do Castelo",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Vila Real",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Viseu",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      }
+    ]
+  },
+  {
+    "iso3": "PRI",
+    "name": "Puerto Rico",
+    "timeZoneIncrement": 14400000
+  },
+  {
+    "iso3": "QAT",
+    "name": "Qatar",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "ROU",
+    "name": "Romania",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "RUS",
+    "name": "Russia",
+    "cities": [
+      {
+        "name": "Moscow",
+        "admin": "primary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Abakan",
+        "admin": "secondary",
+        "timeZoneIncrement": 21600000
+      },
+      {
+        "name": "Anadyr",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Arkhangelsk",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Astrakhan",
+        "admin": "secondary",
+        "timeZoneIncrement": 14400000
+      },
+      {
+        "name": "Barnaul",
+        "admin": "secondary",
+        "timeZoneIncrement": 21600000
+      },
+      {
+        "name": "Belgorod",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Birobidzhan",
+        "admin": "secondary",
+        "timeZoneIncrement": 36000000
+      },
+      {
+        "name": "Blagoveshchensk",
+        "admin": "secondary",
+        "timeZoneIncrement": 32400000
+      },
+      {
+        "name": "Bryansk",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Cheboksary",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Chelyabinsk",
+        "admin": "secondary",
+        "timeZoneIncrement": 18000000
+      },
+      {
+        "name": "Chita",
+        "admin": "secondary",
+        "timeZoneIncrement": 32400000
+      },
+      {
+        "name": "Elista",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Gorno-Altaysk",
+        "admin": "secondary",
+        "timeZoneIncrement": 21600000
+      },
+      {
+        "name": "Groznyy",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Irkutsk",
+        "admin": "secondary",
+        "timeZoneIncrement": 28800000
+      },
+      {
+        "name": "Izhevsk",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Kaliningrad",
+        "admin": "secondary",
+        "timeZoneIncrement": 7200000
+      },
+      {
+        "name": "Kaluga",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Kazan",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Kemerovo",
+        "admin": "secondary",
+        "timeZoneIncrement": 21600000
+      },
+      {
+        "name": "Khabarovsk",
+        "admin": "secondary",
+        "timeZoneIncrement": 36000000
+      },
+      {
+        "name": "Khanty-Mansiysk",
+        "admin": "secondary",
+        "timeZoneIncrement": 18000000
+      },
+      {
+        "name": "Kirov",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Kostroma",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Krasnodar",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Krasnoyarsk",
+        "admin": "secondary",
+        "timeZoneIncrement": 21600000
+      },
+      {
+        "name": "Kyzyl",
+        "admin": "secondary",
+        "timeZoneIncrement": 21600000
+      },
+      {
+        "name": "Lipetsk",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Magadan",
+        "admin": "secondary",
+        "timeZoneIncrement": 39600000
+      },
+      {
+        "name": "Makhachkala",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Murmansk",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Nizhniy Novgorod",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Novosibirsk",
+        "admin": "secondary",
+        "timeZoneIncrement": 21600000
+      },
+      {
+        "name": "Omsk",
+        "admin": "secondary",
+        "timeZoneIncrement": 21600000
+      },
+      {
+        "name": "Orenburg",
+        "admin": "secondary",
+        "timeZoneIncrement": 18000000
+      },
+      {
+        "name": "Penza",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Perm",
+        "admin": "secondary",
+        "timeZoneIncrement": 18000000
+      },
+      {
+        "name": "Petropavlovsk-Kamchatskiy",
+        "admin": "secondary",
+        "timeZoneIncrement": 43200000
+      },
+      {
+        "name": "Petrozavodsk",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Pskov",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Rostov",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Ryazan",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Saint Petersburg",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Salekhard",
+        "admin": "secondary",
+        "timeZoneIncrement": 18000000
+      },
+      {
+        "name": "Samara",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Saransk",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Saratov",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Smolensk",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Stavropol",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Syktyvkar",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Tomsk",
+        "admin": "secondary",
+        "timeZoneIncrement": 21600000
+      },
+      {
+        "name": "Tula",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Tyumen",
+        "admin": "secondary",
+        "timeZoneIncrement": 18000000
+      },
+      {
+        "name": "Ufa",
+        "admin": "secondary",
+        "timeZoneIncrement": 18000000
+      },
+      {
+        "name": "Ulan-Ude",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Ulyanovsk",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Vladimir",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Vladivostok",
+        "admin": "secondary",
+        "timeZoneIncrement": 36000000
+      },
+      {
+        "name": "Volgograd",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Voronezh",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Yakutsk",
+        "admin": "secondary",
+        "timeZoneIncrement": 32400000
+      },
+      {
+        "name": "Yaroslavl",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Yekaterinburg",
+        "admin": "secondary",
+        "timeZoneIncrement": 18000000
+      },
+      {
+        "name": "Yoshkar-Ola",
+        "admin": "secondary",
+        "timeZoneIncrement": 10800000
+      },
+      {
+        "name": "Yuzhno-Sakhalinsk",
+        "admin": "secondary",
+        "timeZoneIncrement": 39600000
+      }
+    ]
+  },
+  {
+    "iso3": "RWA",
+    "name": "Rwanda",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "SHN",
+    "name": "Saint Helena, Ascension, and Tristan da Cunha",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "WSM",
+    "name": "Samoa",
+    "timeZoneIncrement": 46800000
+  },
+  {
+    "iso3": "SMR",
+    "name": "San Marino",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "STP",
+    "name": "Sao Tome and Principe",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "SAU",
+    "name": "Saudi Arabia",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "SEN",
+    "name": "Senegal",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "SRB",
+    "name": "Serbia",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "SYC",
+    "name": "Seychelles",
+    "timeZoneIncrement": 14400000
+  },
+  {
+    "iso3": "SLE",
+    "name": "Sierra Leone",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "SVK",
+    "name": "Slovakia",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "SVN",
+    "name": "Slovenia",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "SLB",
+    "name": "Solomon Islands",
+    "timeZoneIncrement": 39600000
+  },
+  {
+    "iso3": "SOM",
+    "name": "Somalia",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "ZAF",
+    "name": "South Africa",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "KOR",
+    "name": "South Korea",
+    "timeZoneIncrement": 32400000
+  },
+  {
+    "iso3": "SSD",
+    "name": "South Sudan",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "ESP",
+    "name": "Spain",
+    "cities": [
+      {
+        "name": "Madrid",
+        "admin": "primary",
+        "timeZoneIncrement": 3600000
+      },
+      {
+        "name": "Barcelona",
+        "admin": "secondary",
+        "timeZoneIncrement": 3600000
+      },
+      {
+        "name": "Las Palmas",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Logrono",
+        "admin": "secondary",
+        "timeZoneIncrement": 3600000
+      },
+      {
+        "name": "Murcia",
+        "admin": "secondary",
+        "timeZoneIncrement": 3600000
+      },
+      {
+        "name": "Oviedo",
+        "admin": "secondary",
+        "timeZoneIncrement": 3600000
+      },
+      {
+        "name": "Palma",
+        "admin": "secondary",
+        "timeZoneIncrement": 3600000
+      },
+      {
+        "name": "Pamplona",
+        "admin": "secondary",
+        "timeZoneIncrement": 3600000
+      },
+      {
+        "name": "Santa Cruz",
+        "admin": "secondary",
+        "timeZoneIncrement": 0
+      },
+      {
+        "name": "Santander",
+        "admin": "secondary",
+        "timeZoneIncrement": 3600000
+      },
+      {
+        "name": "Sevilla",
+        "admin": "secondary",
+        "timeZoneIncrement": 3600000
+      },
+      {
+        "name": "Toledo",
+        "admin": "secondary",
+        "timeZoneIncrement": 3600000
+      },
+      {
+        "name": "Valencia",
+        "admin": "secondary",
+        "timeZoneIncrement": 3600000
+      },
+      {
+        "name": "Valladolid",
+        "admin": "secondary",
+        "timeZoneIncrement": 3600000
+      },
+      {
+        "name": "Vitoria-Gasteiz",
+        "admin": "secondary",
+        "timeZoneIncrement": 3600000
+      },
+      {
+        "name": "Zaragoza",
+        "admin": "secondary",
+        "timeZoneIncrement": 3600000
+      }
+    ]
+  },
+  {
+    "iso3": "LKA",
+    "name": "Sri Lanka",
+    "timeZoneIncrement": 18000000
+  },
+  {
+    "iso3": "SDN",
+    "name": "Sudan",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "SUR",
+    "name": "Suriname",
+    "timeZoneIncrement": -10800000
+  },
+  {
+    "iso3": "SWE",
+    "name": "Sweden",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "CHE",
+    "name": "Switzerland",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "SYR",
+    "name": "Syria",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "TWN",
+    "name": "Taiwan",
+    "timeZoneIncrement": 28800000
+  },
+  {
+    "iso3": "TJK",
+    "name": "Tajikistan",
+    "timeZoneIncrement": 18000000
+  },
+  {
+    "iso3": "TZA",
+    "name": "Tanzania",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "THA",
+    "name": "Thailand",
+    "timeZoneIncrement": 25200000
+  },
+  {
+    "iso3": "TLS",
+    "name": "Timor-Leste",
+    "timeZoneIncrement": 32400000
+  },
+  {
+    "iso3": "TGO",
+    "name": "Togo",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "TON",
+    "name": "Tonga",
+    "timeZoneIncrement": 46800000
+  },
+  {
+    "iso3": "TTO",
+    "name": "Trinidad and Tobago",
+    "timeZoneIncrement": -14400000
+  },
+  {
+    "iso3": "TUN",
+    "name": "Tunisia",
+    "timeZoneIncrement": 3600000
+  },
+  {
+    "iso3": "TUR",
+    "name": "Turkey",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "TKM",
+    "name": "Turkmenistan",
+    "timeZoneIncrement": 18000000
+  },
+  {
+    "iso3": "TUV",
+    "name": "Tuvalu",
+    "timeZoneIncrement": 43200000
+  },
+  {
+    "iso3": "UGA",
+    "name": "Uganda",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "UKR",
+    "name": "Ukraine",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "ARE",
+    "name": "United Arab Emirates",
+    "timeZoneIncrement": 14400000
+  },
+  {
+    "iso3": "GBR",
+    "name": "United Kingdom",
+    "timeZoneIncrement": 0
+  },
+  {
+    "iso3": "USA",
+    "name": "United States",
+    "cities": [
+      {
+        "name": "Washington",
+        "admin": "primary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Alabama",
+        "admin": "secondary",
+        "timeZoneIncrement": -18000000
+      },
+      {
+        "name": "Atlanta",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Boston",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Charleston",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Concord",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Denver",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Frankfort",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Harrisburg",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Hartford",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Helena",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Honolulu",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Indianapolis",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Jackson",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Jefferson City",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Juneau",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Lansing",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Lincoln",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Little Rock",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Madison",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Montgomery",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Montpelier",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Nashville",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Oklahoma City",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Olympia",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Phoenix",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Pierre",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Providence",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Raleigh",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Richmond",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Sacramento",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Salem",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Salt Lake City",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Santa Fe",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Springfield",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "St. Paul",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Tallahassee",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Topeka",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      },
+      {
+        "name": "Trenton",
+        "admin": "secondary",
+        "timeZoneIncrement": -14400000
+      }
+    ]
+  },
+  {
+    "iso3": "URY",
+    "name": "Uruguay",
+    "timeZoneIncrement": -10800000
+  },
+  {
+    "iso3": "UZB",
+    "name": "Uzbekistan",
+    "timeZoneIncrement": 18000000
+  },
+  {
+    "iso3": "VUT",
+    "name": "Vanuatu",
+    "timeZoneIncrement": 39600000
+  },
+  {
+    "iso3": "VEN",
+    "name": "Venezuela",
+    "timeZoneIncrement": -453600000
+  },
+  {
+    "iso3": "VNM",
+    "name": "Vietnam",
+    "timeZoneIncrement": 25200000
+  },
+  {
+    "iso3": "WLF",
+    "name": "Wallis and Futuna",
+    "timeZoneIncrement": 43200000
+  },
+  {
+    "iso3": "YEM",
+    "name": "Yemen",
+    "timeZoneIncrement": 10800000
+  },
+  {
+    "iso3": "ZMB",
+    "name": "Zambia",
+    "timeZoneIncrement": 7200000
+  },
+  {
+    "iso3": "ZWE",
+    "name": "Zimbabwe",
+    "timeZoneIncrement": 7200000
+  }
+]
